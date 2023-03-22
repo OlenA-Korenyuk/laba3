@@ -1,0 +1,17 @@
+D:\КПІ\Програмування\2 семестр\Лаба 3\Лаба 3\obj\Debug\net6.0\Лаба 3.csproj.AssemblyReference.cache
+D:\КПІ\Програмування\2 семестр\Лаба 3\Лаба 3\obj\Debug\net6.0\Лаба 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\КПІ\Програмування\2 семестр\Лаба 3\Лаба 3\obj\Debug\net6.0\Лаба 3.AssemblyInfoInputs.cache
+D:\КПІ\Програмування\2 семестр\Лаба 3\Лаба 3\obj\Debug\net6.0\Лаба 3.AssemblyInfo.cs
+D:\КПІ\Програмування\2 семестр\Лаба 3\Лаба 3\obj\Debug\net6.0\Лаба 3.csproj.CoreCompileInputs.cache
+D:\КПІ\Програмування\2 семестр\Лаба 3\Лаба 3\bin\Debug\net6.0\Лаба 3.exe
+D:\КПІ\Програмування\2 семестр\Лаба 3\Лаба 3\bin\Debug\net6.0\Лаба 3.deps.json
+D:\КПІ\Програмування\2 семестр\Лаба 3\Лаба 3\bin\Debug\net6.0\Лаба 3.runtimeconfig.json
+D:\КПІ\Програмування\2 семестр\Лаба 3\Лаба 3\bin\Debug\net6.0\Лаба 3.dll
+D:\КПІ\Програмування\2 семестр\Лаба 3\Лаба 3\bin\Debug\net6.0\Лаба 3.pdb
+D:\КПІ\Програмування\2 семестр\Лаба 3\Лаба 3\obj\Debug\net6.0\Лаба 3.dll
+D:\КПІ\Програмування\2 семестр\Лаба 3\Лаба 3\obj\Debug\net6.0\refint\Лаба 3.dll
+D:\КПІ\Програмування\2 семестр\Лаба 3\Лаба 3\obj\Debug\net6.0\Лаба 3.pdb
+D:\КПІ\Програмування\2 семестр\Лаба 3\Лаба 3\obj\Debug\net6.0\Лаба 3.genruntimeconfig.cache
+D:\КПІ\Програмування\2 семестр\Лаба 3\Лаба 3\obj\Debug\net6.0\ref\Лаба 3.dll
+D:\КПІ\Програмування\2 семестр\Лаба 3\Лаба 3\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\КПІ\Програмування\2 семестр\Лаба 3\Лаба 3\obj\Debug\net6.0\Лаба 3.csproj.CopyComplete
